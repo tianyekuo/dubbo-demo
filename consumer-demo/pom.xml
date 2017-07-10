@@ -23,7 +23,7 @@
             <!--<version>3.8.1</version>-->
         <!--</dependency>-->
         <dependency>
-            <groupId>com.rongyi.demo</groupId>
+            <groupId>com.knight.demo</groupId>
             <artifactId>api-demo</artifactId>
             <version>${project.parent.version}</version>
         </dependency>

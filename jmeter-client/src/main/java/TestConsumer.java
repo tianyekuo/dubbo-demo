@@ -7,7 +7,7 @@ import org.apache.jmeter.protocol.java.sampler.JavaSamplerContext;
 import org.apache.jmeter.samplers.SampleResult;
 
 public class TestConsumer extends AbstractJavaSamplerClient {
-    private static String label = "consumer";
+    private static String label = "jmeter_client";
     private String ID;
     private String URL;
     private String VERSION;

@@ -1,7 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.rongyi.demo</groupId>
   <artifactId>provider-demo</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
@@ -14,7 +13,7 @@
 
   <dependencies>
       <dependency>
-          <groupId>com.rongyi.demo</groupId>
+          <groupId>com.knight.demo</groupId>
           <artifactId>api-demo</artifactId>
           <version>${project.parent.version}</version>
       </dependency>
